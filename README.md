@@ -1,7 +1,17 @@
-# Finger-Reader-Vision-to-Speech-Perception.ai-
+# Buisness Canvas
 
-# Our Logo
-![i](AI.png)
+- Here is the detailed Business Canvas that we proposed for our device.
+
+![i](Canvas.PNG)
+
+# Device 3D Desgin in Blender
+![i](IMG-20181006-WA0054.jpg)
+
+# Hardware Overview
+![i](PAI2.jpg)
+
+# Software Overview (Algorithmic Flow)
+![i](PAI.jpg)
 
 # Image-Processing
 
@@ -15,16 +25,8 @@
 ![i](BindingBox_latest2.jpg)
 
 
-# Hardware Overview
-![i](PAI2.jpg)
-
-# Software Overview (Algorithmic Flow)
-![i](PAI.jpg)
-
-# Device 3D Desgin in Blender
-![i](IMG-20181006-WA0054.jpg)
 
 
-# Buisness Canvas
 
-![i](Canvas.PNG)
+
+
