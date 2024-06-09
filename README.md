@@ -2,7 +2,7 @@
 
 Here is the detailed Business Canvas that we proposed for our device.
 
-<img src="Canvas.PNG" alt="i" width="300"/>
+<img src="Canvas.PNG" alt="i" width="700"/>
 
 - Device 3D Desgin in Blender
 
