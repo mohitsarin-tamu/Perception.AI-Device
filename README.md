@@ -2,10 +2,11 @@
 
 Here is the detailed Business Canvas that we proposed for our device.
 
-![i](Canvas.PNG)
+<img src="Canvas.PNG" alt="i" width="300"/>
 
 - Device 3D Desgin in Blender
-<img src="IMG-20181006-WA0054.jpg" alt="i" width="500"/>
+
+<img src="IMG-20181006-WA0054.jpg" alt="i" width="300"/>
 
 - Hardware Overview
 ![i](PAI2.jpg)
