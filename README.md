@@ -9,10 +9,12 @@ Here is the detailed Business Canvas that we proposed for our device.
 <img src="IMG-20181006-WA0054.jpg" alt="i" width="300"/>
 
 - Hardware Overview
-![i](PAI2.jpg)
+  
+<img src="PAI2.jpg" alt="i" width="500"/>
 
 - Software Overview (Algorithmic Flow)
-![i](PAI.jpg)
+
+<img src="PAI.jpg" alt="i" width="500"/>
 
 - Image-Processing
 Here's the image captured by the camera, which is given as input to the algorithm.
